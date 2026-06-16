@@ -1,0 +1,1 @@
+This is a throwaway proof-of-concept to confirm that Claude Code runs correctly inside a GitHub Codespace. It is not intended for production use and contains no real data, secrets, or dependencies — just a minimal dev container config and a trivial JS file to smoke-test the agent end-to-end.
